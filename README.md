@@ -1,5 +1,5 @@
 # Traffic_Light
- Traffic light simulation created using Arduino (C / C++)
+ Traffic light simulation with light sensor created using Arduino (C / C++)
 
  <hr>
  
